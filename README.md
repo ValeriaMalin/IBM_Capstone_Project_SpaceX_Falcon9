@@ -1,5 +1,6 @@
 # IBM_Capstone_Project_SpaceX_Falcon9
 The project was performed by Valeria together with IBM Course - Applied Data Science Capstone
+...The work on a project is still on going....
 
 Project Descrption: The commercial space age is here, companies are making space travel affordable for everyone. 
 Virgin Galactic is providing suborbital spaceflights.  Lab is a small satellite provider.
