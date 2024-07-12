@@ -2,6 +2,8 @@
 The project was performed by Valeria together with IBM Course - Applied Data Science Capstone
 ...The work on a project is still on going....
 
+Currently the work is presented in pdf file: capstone_story_Valeria.pdf
+
 Project Descrption: The commercial space age is here, companies are making space travel affordable for everyone. 
 Virgin Galactic is providing suborbital spaceflights.  Lab is a small satellite provider.
 Blue Origin manufactures sub-orbital and orbital reusable rockets. 
@@ -24,4 +26,5 @@ Your job is to determine the price of each launch. You will do this by gathering
 You will also determine if SpaceX will reuse the first stage. Instead of using rocket science to determine if the first stage will land successfully, 
 you will train a machine learning model and use public information to predict if SpaceX will reuse the first stage.
 
-The Repository contains Jupiter Notebooks and Data Files, created during the Project.
+The Repository contains Jupiter Notebooks, Python file, Presentation in pdf and Data Files, created and used during the Project.
+
